@@ -1,6 +1,9 @@
 # Google_Earth_Engine
 Practice codes for my personal project with Google Earth Engine
 
+The link to the code in Google Earth Engine Code Editor - 
+https://code.earthengine.google.com/?scriptPath=users%2Fdalalyash10%2Fdalalyash%3AClustering_Practice
+
 ## Supervised Learning Classification
 1. CART (Classification and Regression tree) Classifier
 2. Random Forest Classifier
