@@ -34,6 +34,22 @@ Result for Random Forest Classifier -
 
 Classification is good just like CART Classifier.
 
+## Advanced Image Processing
 
+The link to the file is the same.
 
+![image](https://github.com/YashDalal10/Google_Earth_Engine/assets/50106830/93a7c716-a329-481f-8c79-bb13c4b94ff3)
 
+The initial image indicating percentage tree cover.
+
+![image](https://github.com/YashDalal10/Google_Earth_Engine/assets/50106830/ea76b8e3-9c9c-4948-b7a0-d1e6b291edc0)
+
+The LANDSAT 8 image.
+
+![image](https://github.com/YashDalal10/Google_Earth_Engine/assets/50106830/900cd00d-d17a-428d-84af-e1ed5a84a18c)
+
+Predicted percent tree cover after applying Linear Fit on the image.
+
+![image](https://github.com/YashDalal10/Google_Earth_Engine/assets/50106830/c3011583-e4bf-44ed-920f-bada627a2b9c)
+
+Predicted percent tree cover after applying Linear Regression on the image.
